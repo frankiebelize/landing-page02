@@ -28,3 +28,7 @@ MIT License
 
 ## Deployed Link
 https://frankiebelize.github.io/landing-page02/
+
+## Future Developments
+
+Will add pages for about, services, info and contact.
